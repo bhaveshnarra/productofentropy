@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Product of Entropy'
 theme = 'PaperMod'
 publishDir = "docs"
+baseURL = "https://bhaveshnarra.github.io/productofentropy/"
